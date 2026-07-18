@@ -38,7 +38,7 @@ Python, pandas, NumPy, scikit-learn (Logistic Regression, Random Forest, GridSea
 
 ## Repo Contents
 - `notebook/salifort_motors_analysis.ipynb` — full analysis, from data cleaning through model evaluation
-- `images/` — key visualizations referenced above
+- `![Feature Importance](Important%20Visualizations/Clustered HeatMap)` — key visualizations referenced above
 
 ## What I'd Explore Next
 Feature engineering around tenure × workload interaction effects, and testing an XGBoost model against the current Random Forest baseline.
