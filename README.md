@@ -36,10 +36,6 @@ This project follows Google's PACE methodology — **Plan, Analyze, Construct, E
 ## Tech Stack
 Python, pandas, NumPy, scikit-learn (Logistic Regression, Random Forest, GridSearchCV), Matplotlib, Seaborn
 
-## Repo Contents
-- `notebook/salifort_motors_analysis.ipynb` — full analysis, from data cleaning through model evaluation
-- `![Feature Importance](Important%20Visualizations/Clustered HeatMap)` — key visualizations referenced above
-
 ## What I'd Explore Next
 Feature engineering around tenure × workload interaction effects, and testing an XGBoost model against the current Random Forest baseline.
 
